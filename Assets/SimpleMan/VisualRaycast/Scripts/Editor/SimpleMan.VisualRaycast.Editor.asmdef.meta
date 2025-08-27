@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa64bb5223e72e34db603da3c60caa73
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180995
+  packageName: Visual Raycast PRO (Boxcast and Spherecast)
+  packageVersion: 2.1
+  assetPath: Assets/SimpleMan/VisualRaycast/Scripts/Editor/SimpleMan.VisualRaycast.Editor.asmdef
+  uploadId: 461415

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc37ce607b0eb4e4db40a151e3145665
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180995
+  packageName: Visual Raycast PRO (Boxcast and Spherecast)
+  packageVersion: 2.1
+  assetPath: Assets/SimpleMan/VisualRaycast/Demo/Materials/M_Floor.mat
+  uploadId: 461415

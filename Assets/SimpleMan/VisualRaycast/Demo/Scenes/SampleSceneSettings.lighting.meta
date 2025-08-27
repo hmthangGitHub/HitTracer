@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fc199b76065a4643a75205bbc6406d5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180995
+  packageName: Visual Raycast PRO (Boxcast and Spherecast)
+  packageVersion: 2.1
+  assetPath: Assets/SimpleMan/VisualRaycast/Demo/Scenes/SampleSceneSettings.lighting
+  uploadId: 461415

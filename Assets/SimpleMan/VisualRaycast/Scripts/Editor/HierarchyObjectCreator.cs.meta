@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2754b65a7314da847bd70f79e2e877b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180995
+  packageName: Visual Raycast PRO (Boxcast and Spherecast)
+  packageVersion: 2.1
+  assetPath: Assets/SimpleMan/VisualRaycast/Scripts/Editor/HierarchyObjectCreator.cs
+  uploadId: 461415

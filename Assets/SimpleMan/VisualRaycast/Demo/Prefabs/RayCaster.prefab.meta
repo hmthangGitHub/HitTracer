@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 77aea04052d6744469c0da4fee32f952
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180995
+  packageName: Visual Raycast PRO (Boxcast and Spherecast)
+  packageVersion: 2.1
+  assetPath: Assets/SimpleMan/VisualRaycast/Demo/Prefabs/RayCaster.prefab
+  uploadId: 461415
