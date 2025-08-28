@@ -17,7 +17,7 @@
     {
       "displayName": "Example Scene",
       "description": "An example scene showing how to use HitTracer.",
-      "path": "Samples/Sample"
+      "path": "Samples~/"
     }
   ]
 }
